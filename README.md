@@ -1,4 +1,4 @@
-# Better Leisure Activities Open Data
+# Better Activities Open Data
 
 ## Open Data Endpoints
 - https://www.better.org.uk/odi/sessions.json - a feed of sessions from better.org.uk
